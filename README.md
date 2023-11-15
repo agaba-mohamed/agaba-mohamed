@@ -1,16 +1,13 @@
-### Hi there 👋
+<!-- <img src="banner.png" alt="Alt text" title="Banner"> -->
 
-<!--
-**agaba-mohamed/agaba-mohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/Unknown-0x0?label=Follow&style=social)](https://github.com/Unknown-0x0/?tab=follow)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/raphael-dmchy-247317233/)](www.linkedin.com/in/agaba-mohamed/))
 
-Here are some ideas to get you started:
+:wave: Hi there! I'm a third-year student at Epitech, diving into the exciting world of tech and coding. Always up for a coding challenge and passionate about innovation."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- START OF PROFILE STACK, DO NOT REMOVE -->
+| 💻 **Technology** | 🚀 **Projects** |
+| - | - |
+| [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]() | [![C-PROJECT](https://img.shields.io/static/v1?label=&message=C-PROJECT&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/agaba-mohamed/projects/tree/main/C)  | 
+
