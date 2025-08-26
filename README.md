@@ -2,7 +2,7 @@
 
 <img src="background.jpg" alt="Alt text" title="background">
 
-👋 Hi there! I'm a third-year student at Epitech, delving into the thrilling world of tech and coding. Always ready for a coding challenge and fueled by a passion for innovation.
+👋 Hi there! I'm a fourth-year student at Epitech, delving into the thrilling world of tech and coding. Always ready for a coding challenge and fueled by a passion for innovation.
 
 ###
 
